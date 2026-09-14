@@ -8,13 +8,22 @@
 
 ###### 👆 The above image is interactive! Try clicking on the tabs :)
 
-### `ThreadCrash`
+<br>
 
-#### Languages
-* **C / C++** — C++20, SIMD AVX2 slab acceleration, raytracing & rendering engines
-* **Rust** — Low-latency network services, memory-safe concurrency, zero-copy proxies
-* **Go** — Cloud-native microservices, Kubernetes operators, Linux eBPF telemetry
-* **Java** — High-performance Netty buffer pipelines, asynchronous packet architectures
-* **Lua / Luau** — Game engine runtime mechanics, Roblox Luau tooling, configuration engines
-* **Python** — Automated telemetry pipelines, performance benchmarking, system diagnostics
-* **Shell / Bash & ASM** — Linux kernel tuning, x86-64 assembly routines, tracepoint automation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="46" height="46" alt="C++" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/rust/rust.png" width="46" height="46" alt="Rust" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" width="46" height="46" alt="Go" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="46" height="46" alt="Java" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" width="46" height="46" alt="Lua" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="46" height="46" alt="Python" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" width="46" height="46" alt="C" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png" width="46" height="46" alt="Bash" />
+</p>
