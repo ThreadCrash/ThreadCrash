@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <defs>
+    <linearGradient id="bgDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#161b22" />
+    </linearGradient>
+    <linearGradient id="accentCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#818cf8" />
+    </linearGradient>
+  </defs>
+  <!-- Window Container -->
+  <rect x="2" y="2" width="896" height="316" rx="14" fill="url(#bgDark)" stroke="#30363d" stroke-width="2" />
+  
+  <!-- Window Header Bar -->
+  <rect x="2" y="2" width="896" height="42" rx="14" fill="#21262d" />
+  <rect x="2" y="30" width="896" height="14" fill="#21262d" />
+  <line x1="2" y1="44" x2="898" y2="44" stroke="#30363d" stroke-width="1.5" />
+  
+  <!-- Window Controls -->
+  <circle cx="24" cy="22" r="6.5" fill="#ff5f56" />
+  <circle cx="44" cy="22" r="6.5" fill="#ffbd2e" />
+  <circle cx="64" cy="22" r="6.5" fill="#27c93f" />
+
+  <!-- Browser / Terminal Tabs -->
+  <rect x="90" y="8" width="180" height="36" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+  <text x="110" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="12" font-weight="600" fill="#38bdf8">⚡ kernel-sentry.xdp</text>
+
+  <rect x="280" y="8" width="180" height="36" rx="8" fill="#161b22" />
+  <text x="300" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="12" fill="#8b949e">🎯 raytracer.cpp</text>
+
+  <rect x="470" y="8" width="170" height="36" rx="8" fill="#161b22" />
+  <text x="490" y="30" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="12" fill="#8b949e">🛡️ zero-trust.spiffe</text>
+
+  <!-- Content Body -->
+  <text x="40" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="28" font-weight="800" fill="#f0f6fc">@ThreadCrash</text>
+  <text x="40" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="14" font-weight="500" fill="#8b949e">Site Reliability Engineering • SecOps Runtime Defense • Kernel eBPF Telemetry • High-Performance C++</text>
+  
+  <!-- Terminal Prompt Box -->
+  <rect x="40" y="135" width="820" height="150" rx="8" fill="#0b0e14" stroke="#21262d" stroke-width="1.5" />
+  <text x="60" y="165" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" fill="#a78bfa">threadcrash@sre-gateway:~$</text>
+  <text x="280" y="165" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" fill="#f0f6fc">./netops-diagnostics --mesh=active</text>
+  
+  <text x="60" y="195" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" fill="#34d399">[✓] eBPF XDP Packet Filter:</text>
+  <text x="270" y="195" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" fill="#e6edf3">0 dropped frames across 12.8M socket ingress packets</text>
+  
+  <text x="60" y="222" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" fill="#38bdf8">[✓] Chaos Resilience SLO:</text>
+  <text x="270" y="222" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" fill="#e6edf3">Error budget burn 0.002% (p99 latency: 18.4 microseconds)</text>
+  
+  <text x="60" y="249" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" fill="#f43f5e">[✓] Falco Zero-Trust Audit:</text>
+  <text x="270" y="249" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12.5" fill="#e6edf3">100% SPIFFE/SPIRE workload attestation verified</text>
+
+  <text x="60" y="272" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#6e7681">Telemetry active: WireGuard overlay mesh stable (142 nodes)</text>
+</svg>
