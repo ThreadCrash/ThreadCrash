@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="418" viewBox="0 0 900 418" role="img" aria-labelledby="title desc">
+<title id="title">ThreadCrash — languages and systems</title>
+<desc id="desc">SecOps, NetOps and SRE. C, C++, Rust, Go, Python, Bash, SQL and Lua.</desc>
+<defs><clipPath id="window"><rect x="1" y="1" width="898" height="416" rx="16"/></clipPath></defs>
+<g clip-path="url(#window)" font-family="Segoe UI, Arial, sans-serif">
+<rect width="900" height="418" fill="#0d1117"/>
+<path d="M0 0H900V49H0Z" fill="#161b22"/>
+<path d="M0 49H900" stroke="#293341"/>
+<circle cx="25" cy="25" r="5" fill="#ff6259"/>
+<circle cx="44" cy="25" r="5" fill="#ffbd2e"/>
+<circle cx="63" cy="25" r="5" fill="#28c840"/>
+<text x="91" y="30" fill="#98a7ba" font-size="12" font-family="Consolas, monospace">threadcrash / profile</text>
+<text x="869" y="30" text-anchor="end" fill="#98a7ba" font-size="11" letter-spacing="1.8">README.md</text>
+<text x="35" y="114" fill="#eff4fa" font-size="43" font-weight="700" letter-spacing="-1.7">ThreadCrash</text>
+<text x="36" y="143" fill="#98a7ba" font-size="15">Systems software · Concurrency · Infrastructure</text>
+<text x="863" y="111" text-anchor="end" fill="#8cdacb" font-family="Consolas, monospace" font-size="13">SecOps · NetOps · SRE</text>
+<text x="36" y="187" fill="#98a7ba" font-size="10" font-weight="600" letter-spacing="2.4">LANGUAGES</text>
+<path d="M144 183H864" stroke="#293341"/>
+<g transform="translate(36 204)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#9fb8d7" font-family="Consolas, monospace" font-size="21" font-weight="700">C</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">C</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Systems</text>
+</g>
+<g transform="translate(247 204)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#72b7ff" font-family="Consolas, monospace" font-size="21" font-weight="700">C++</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">C++</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Concurrency</text>
+</g>
+<g transform="translate(458 204)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#eab18f" font-family="Consolas, monospace" font-size="21" font-weight="700">Rs</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">Rust</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Memory safety</text>
+</g>
+<g transform="translate(669 204)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#5cd6e8" font-family="Consolas, monospace" font-size="21" font-weight="700">Go</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">Go</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Network services</text>
+</g>
+<g transform="translate(36 298)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#e7cb79" font-family="Consolas, monospace" font-size="21" font-weight="700">Py</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">Python</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Automation</text>
+</g>
+<g transform="translate(247 298)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#97d6ad" font-family="Consolas, monospace" font-size="21" font-weight="700">&gt;_</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">Bash</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Shell scripting</text>
+</g>
+<g transform="translate(458 298)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#b7a7ef" font-family="Consolas, monospace" font-size="21" font-weight="700">SQL</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">SQL</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Data &amp; queries</text>
+</g>
+<g transform="translate(669 298)">
+<rect width="195" height="80" rx="10" fill="#131a23" stroke="#293341"/>
+<text x="16" y="34" fill="#a2afff" font-family="Consolas, monospace" font-size="21" font-weight="700">Lua</text>
+<text x="78" y="32" fill="#eff4fa" font-size="15" font-weight="600">Lua</text>
+<text x="16" y="61" fill="#98a7ba" font-size="11">Embedded scripting</text>
+</g>
+</g><rect x="1" y="1" width="898" height="416" rx="16" fill="none" stroke="#293341"/></svg>
